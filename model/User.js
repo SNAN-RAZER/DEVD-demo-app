@@ -9,7 +9,7 @@ mongooose.Schema({
         max:255
     },
     email:{
-        type:String,
+        type:Strin,
         required:true,
         min:6,
         max:255
